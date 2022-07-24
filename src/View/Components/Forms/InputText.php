@@ -21,6 +21,7 @@ class InputText extends Component
     public function __construct($label = '', $name = '', $id = '', $value = '', $required = false, $disabled=false, $readonly=false)
     {
         $this->label = $label;
+        
         $this->name = $name;
         $this->value = $value;
         $this->required = $required;
