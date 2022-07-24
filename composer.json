@@ -1,0 +1,17 @@
+{
+    "name": "lr44/lootstrap",
+    "description": "Laravel bootstrap components",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "lonelyrider44",
+        "email": "lonelyrider44@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "LR\\Lootstrap\\": "src/"
+        }
+    },
+    "require": {}
+}
